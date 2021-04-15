@@ -42,7 +42,7 @@ dependencies:
   uuid: ^2.2.2
   json_form_builder:
     git:
-      url: https://github.com/YuenEsc/json_form_builder.git
+      url: https://github.com/hsantana-transom/json_form_builder.git
       ref: master
   sembast: ^2.4.8
 
